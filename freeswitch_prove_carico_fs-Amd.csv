@@ -1,0 +1,20 @@
+Tipo_traffico,CPU_setup,Benchmark_MT,CPS,Sessioni_contemporanee,Sec_to_reach,HT_sec,Erlang,CPU_percent,RAM_Mb,Disco_cache,Disco_db,Disco_log,Superamento_burst
+G711a_RTP_no_transc,AMD Opteron Dual Core (2x1.7GHz),1198,1,60,,,,15,42M,,,,
+G711a_RTP_no_transc,AMD Opteron Dual Core (2x1.7GHz),1198,2,120,,,,23,42M,,,,
+G711a_RTP_no_transc,AMD Opteron Dual Core (2x1.7GHz),1198,5,220,,,,68,43M,,,,
+G711a_RTP_no_transc,AMD Opteron Dual Core (2x1.7GHz),1198,10,330,,,,100,48M,,,,
+G711a_RTP_no_transc,AMD Opteron Dual Core (2x1.7GHz),1198,30,300,,,,136,52M,,,,S
+G711a_RTP_no_transc,AMD Opteron Dual Core (2x1.7GHz),1198,50,320,,,,120,53M,,,,S
+G711a_SRTP,AMD Opteron Dual Core (2x1.7GHz),1198,10,320,32,,,118,144M,,,,S
+G711a_SRTP,AMD Opteron Dual Core (2x1.7GHz),1198,30,280,9,,,126,163M,,,,S
+G711a_SRTP,AMD Opteron Dual Core (2x1.7GHz),1198,50,280,5,,,118,175M,,,,S
+G711a_RTP_Recording,AMD Opteron Dual Core (2x1.7GHz),1198,1,60,60,,,8.4,48M,,,ramfs,
+G711a_RTP_Recording,AMD Opteron Dual Core (2x1.7GHz),1198,5,260,52,,,77.4,132M,,,ramfs,
+G711a_RTP_Recording,AMD Opteron Dual Core (2x1.7GHz),1198,10,270,27,,,94.3,165M,,,ramfs,
+G711a_RTP_Recording,AMD Opteron Dual Core (2x1.7GHz),1198,30,267,8,,,112.1,184M,,,ramfs,S
+NoMedia_G711a,AMD Opteron Dual Core (2x1.7GHz),1198,50,240,4,,,47,100M,,,,
+NoMedia_G711a,AMD Opteron Dual Core (2x1.7GHz),1198,100,223,2,,,54,115M,,,,
+NoMedia_G711a,AMD Opteron Dual Core (2x1.7GHz),1198,150,168,1,,,61,118M,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
